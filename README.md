@@ -28,7 +28,7 @@ Built a fully interactive Power BI dashboard to explore and analyze credit card 
  🛠 Tools & Tech:
 🧮 Power BI Desktop
 🗃 CSV Data
-💻 SQL (MySQL/PostgreSQL compatible)
+💻PostgreSQL
 📐 DAX Measures for dynamic calculations
 
  🔎 Key Business Insights:
